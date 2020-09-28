@@ -1,1 +1,5 @@
-# ESTADISTICA2
+# ATAQUES TERRORISTAS (AtaqueTer2017)
+Se considera "ataque terrorista" a las acciones perpetradas por actores no estatales, con la intención y/o nivel de violencia contra la integridad de las personas y sus derechos humanos, así como la propiedad pública o privada. Asimismo, si la motivación del ataque tenga un objetivo político, religioso, económico o social, a fin de coaacionar o intimidar mediante el uso de la fuerza letal. En esta data se refleja la cantidad de ataques efectuados en los paises indicados en el año 2017. Asimsimo, académicamente se ha incluído el registro de algunos paises que sólo han tenido hasta el 2016, a fin de cumplir con la condición de  N mayor que 100.
+
+# LIBERTAD DE MEDIAS
+Este índice registra el ranking de la libertad de expresión con que cuentan los países en el mundo. Este índice nos permite visualizar la mencionada percepción del año 2017 (esto se debe a que en la data base original se tenían del 2017 hasta el 2019). Esta clasificación nos permite clasificar el pluralismo político y la independencia de los medios de comunicación por cada país.
